@@ -1,0 +1,10 @@
+.canvas-container {
+  margin-left: auto;
+
+  height: 90%;
+  width: 90%;
+}
+
+nav {
+  display: block;
+}
